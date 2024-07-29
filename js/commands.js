@@ -1,58 +1,48 @@
-var dev = "https://dev.to/cosmicwanderer7";
-var twitter = "https://twitter.com/PrithviYewale";
-var linkedin = "https://www.linkedin.com/in/prithvi-yewale-a77275228/";
-var instagram = "https://www.instagram.com/prithvi_yewale/";
-var github = "https://github.com/cosmicwanderer7";
-var sudo = "https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1";
-var email = "mailto:yewaleprithvi2003@gmail.com";
+var youtube = "https://youtube.com/@euphorus1?feature=shared"
+var linkedin = "https://www.linkedin.com/in/yuvraj-singh-kumpavat-4436a8223/";
+var twitch = "https://www.twitch.tv/euphorus1"
+var github = "https://github.com/Euphorus";
+var sudo = "https://www.youtube.com/watch?v=TVVum6X3TuM";
+var email = "mailto:syuvraj.2021@gmail.com";
 
 aboutme = [
   "<br>",
-  "<span class='underline'>Hey, I'm prithvi!👋</span>",
+  "<span class='underline'>Hey, I'm Yuvraj!👋</span>",
   "<br>",
-  "<li>🔭 I’m currently a 3rd year undergrad, pursuing BSc.</li>",
+  "<li>🔭 I’m currently a 3rd year undergrad, pursuing BSc in Games Design and Programming.</li>",
   "<li>🌱 My fields of intetest are</li>",
   `<pre class="whitespace-pre-wrap">
-        - Fullstack Development
-        - UI/UX Designing</pre>`,
-  `<li><pre class="whitespace-pre-wrap">👯 I would love to work with anyone who wants to build a 
-   professional website for their business or even a personal 
-   website to showcase their portfolio.
-   I love learning new stuff and using it to improve my skills.
-   I primarily use NextJS and Tailwind CSS when building my 
-   websites (projects).
-   You can learn more about the projects that I have built using 
-   the project command.
-   You can browse around my website to find out more about 
-   me.
+        - Mathematics, Physics
+        - Programming, Level Designing
+        - Skateboarding, Racing</pre>`,
+  `<li> I love...
    *Try using a social command.`,
-  `<li><pre class="whitespace-pre-wrap">👨‍💻 Check out my github profile to view my projects
+  `<li> 👨‍💻 Check out my github profile to view my projects
    *Use the github command to take a look at my GitHub profile.`,
-  `<li>📫 Contact me at <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=yewaleprithvi2003@gmail.com">yewaleprithvi2003@gmail.com</a>`,
+  `<li>📫 Contact me at <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=syuvraj.2021@gmail.com">syuvraj.2021@gmail.com</a>`,
   "<br>",
 ];
 
 social = [
   "<br>",
-  'dev        <a href="' +
-    dev +
-    '" target="blank">dev.to/cosmicwanderer7' +
+  'youtube        <a href="' +
+    youtube +
+    '" target="blank">youtube.com/euphorus1' +
     "</a>",
-  'twitter        <a href="' +
-    twitter +
-    '" target="blank">twitter.com/PrithviYewale' +
+    "<br>",
+  'twitch        <a href="' +
+    twitch +
+    '" target="blank">twitch.tv/euphorus1' +
     "</a>",
+    "<br>",
   'linkedin       <a href="' +
     linkedin +
-    '" target="blank">linkedin/prithviYewale' +
+    '" target="blank">linkedin/yuvrajKumpavat' +
     "</a>",
-  'instagram      <a href="' +
-    instagram +
-    '" target="blank">instagram/prithvi_yewale' +
-    "</a>",
+    "<br>",
   'github         <a href="' +
     github +
-    '" target="blank">github/cosmicwanderer7' +
+    '" target="blank">github/Euphorus' +
     "</a>",
   
   "<br>",
@@ -60,38 +50,46 @@ social = [
 
 projects = [
   "<br>",
-  `<a href="https://github.com/cosmicwanderer7/google-clone" target="blank"><span class='underline'>Google Search Clone</span>`,
+  `<a href="https://euphorus.itch.io/guffawing" target="blank"><span class='underline'>GuffaWing</span>`,
   "<br>",
-  `<pre class="indent-8 whitespace-pre-wrap">A functional replica of Google's search page, you can use it for searches. Styled with Tailwind CSS to Rapidly build and look as close as possible to current google search page, the search results are pulled using Googles Programmable Search Engine and it was build using Next.js the react framework.
-
-Project is live here <a href="https://google-clone-p8mn37r8a-cosmicwanderer7.vercel.app/" target="blank">https://google-clone-cosmicwanderer7.vercel.app/</a>
-*Please do not spam searches.
+  `<pre class="indent-8 whitespace-pre-wrap">A 2D RPG game built during Global Games Jam 2024
 
 Built With
 
-    *Next.js
-    *Tailwind CSS
-    *Programmable Search Engine
-    *Yarn
+    *Unity
+    *C#
+    *Github
+    *Maximum Effort of 3 people.
 `,
 
   "<br>",
 
-  `<a href="https://github.com/cosmicwanderer7/contactform" target="blank"><span class='underline'>Contactform With Google Sheets as Database</span>`,
+  `<a href="https://euphorus.itch.io/climate-crusaders" target="blank"><span class='underline'>Climate Crusaders</span>`,
   "<br>",
-  `<pre class="indent-8 whitespace-pre-wrap">This contact form collects information from the user and saves it to Google Sheets using the Google cloud APIs.
-After filling out the form, the user will receive a personalized email with a link to the form that says their response has been recorded. 
-It was built using Next.JS, the React framework and styled with Tailwind CSS.
-
-Project is live here <a href="https://contactform-psi.vercel.app/" target="blank">https://contactform-psi.vercel.app/</a>
+  `<pre class="indent-8 whitespace-pre-wrap">This game is about energy conservation set in the 80s. This project was a part of Staffs Summer Research which went fron July 2023 to August 2023.
+This game is playable in the browser, do give it a go!
 
 Built With
 
-    *Next.js
-    *Tailwind CSS
-    *Google Sheets api
-    *IFTTT
-    *Yarn
+    *Bitsy.com
+    *3 hours of sleep
+    *No thought too deep
+    *Walking like a sheep
+    *That's it *beep*!
+`,
+
+  "<br>",
+
+  `<a href="https://euphorus.itch.io/the-invertor" target="blank"><span class='underline'>The Invertor</span>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">This game was by the far the best platformer I ever made in my life. Instead of jumping, the gravity flips and the player is hanging upside down.
+  
+Built With
+
+    *Unity
+    *C#
+    *Constant support my lecturers
+    *2 hours of staring constantly at the code on why the flip-gravity mechanic wasn't working!
 `,
 
   "<br>",

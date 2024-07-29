@@ -27,7 +27,7 @@ function enterKey(e) {
   if (e.keyCode == 13) {
     commands.push(command.innerHTML);
     git = commands.length;
-    addLine("[prithvi@archrx5500m]~$" + command.innerHTML, "no-animation", 0);
+    addLine("[yuvraj@r3tro]~$" + command.innerHTML, "no-animation", 0);
     commander(command.innerHTML.toLowerCase());
     command.innerHTML = "";
     textarea.value = "";
@@ -76,7 +76,7 @@ function commander(cmd) {
       break;
     case "email":
       addLine(
-        'Opening mailto:<a href="mailto:yewaleprithvi2003@gmail.com"> yewaleprithvi2003@gmail.com</a>...',
+        'Opening mailto:<a href="mailto:syuvraj.2021@gmail.com"> syuvraj.2021@gmail.com</a>...',
         "color2",
         80,
       );

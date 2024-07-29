@@ -5,7 +5,7 @@
 body {
   background-color: #9ccfd8;
   color: #907aa9;
-  background-image: url("assets/beautiful-anime-street-scenery-cherry-blossom-kimono-uhdpaper.com-4K-6.1621.jpg");
+  background-image: url("assets/one.jpg");
   background-attachment: scroll;
   background-size: cover;
   margin: 0;
@@ -117,7 +117,7 @@ b {
 }
 #liner::before {
   color: #b4637a;
-  content: "[prithvi@archrx5500m]~$";
+  content: "[yuvraj@r3tro]~$";
 }
 #liner.password::before {
   content: "Password:";
