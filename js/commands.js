@@ -73,9 +73,11 @@ Built With
 
     *Bitsy.com
     *3 hours of sleep
-    *No thought too deep
-    *Walking like a sheep
-    *That's it *beep*!
+    *with no sow to reap
+    *trying not to be a deadbeat
+    *by making my drink neat
+    *How am I going to make a name
+    *when I got no game!
 `,
 
   "<br>",
